@@ -79,12 +79,12 @@ section{
     font-size: 1.1rem;
     font-weight: 600;
     letter-spacing: 2px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     line-height: 3rem;
 }
 
 .logo span{
-    font-weight: 300;
+    font-weight: 250;
 }
 
 .btn{
